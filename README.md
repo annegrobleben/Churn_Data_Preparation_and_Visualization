@@ -1,4 +1,4 @@
-In this notebook a churn data set from a bank is prepared for model building. This data preparation includes
+This notebook is based on two assignments done as part of a Master in Data Science & AI at Nuclio Digital School, it shows how to prepare a churn dataset for model building and to perform exploratory data analysis. This data preparation includes
 *   General duplicate removal
 *   Removal of customer ID duplicates
 *   Dealing with errors in the data, such as negative age values and float values that should really be integers
