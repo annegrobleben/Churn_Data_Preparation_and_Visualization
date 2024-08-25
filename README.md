@@ -10,4 +10,4 @@ This notebook is based on two assignments done as part of a Master in Data Scien
 *   Correlations between the different variables and customer churn
 
 This notebook was created in Google Colab. In order to run it in Google Colab the attached csv-file "churn_data_before_processing.csv" needs to added to "MyDrive" in Google drive in a folder named "DataPreparation" 
-so that the second and third code cell can be run properly. In case that this notebook is run in an application that is different from Google Colab the second and third code need to be adjusted beforehand. 
+so that the second and third code cell can be run properly. In case that this notebook is run in an application that is different from Google Colab the second and third code cells need to be adjusted beforehand. 
